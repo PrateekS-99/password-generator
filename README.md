@@ -1,2 +1,2 @@
-# password-generator
-This is password generator java program with a grphical user interface.
+# password-generator with gui using Java
+This Java project implements a password generator with an intuitive graphical user interface (GUI). Users can specify password length and select options for character types, such as uppercase letters, numbers, and symbols. The application generates strong, random passwords to enhance online security, making it user-friendly and effective for protecting sensitive information.
